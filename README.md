@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dear-elaine
+- 👋 Hi, I’m
 - 👀 I’m interested in a bunch of things
-- 🌱 I’m currently learning c++, html, css and js
 - 💞️ I’m looking to collaborate on myself?
 - 📫 How to reach me (idk)
 
